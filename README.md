@@ -3,7 +3,7 @@
 In this project, I labelled the pixels of a road in images using a Fully Convolutional Network (FCN).
 
 Here is an example of one of the images:
-![road](examples.example.png)
+![road](examples/example.png)
 
 ### Setup
 ##### Frameworks and Packages
